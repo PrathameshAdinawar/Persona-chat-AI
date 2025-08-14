@@ -6,6 +6,7 @@ import GlassCard from "../components/GlassCard";
 import Image from 'next/image';
 
 
+
 export default function Home() {
   const [persona, setPersona] = useState("hitesh");
 
