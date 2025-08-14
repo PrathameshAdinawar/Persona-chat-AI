@@ -4,7 +4,7 @@ import PersonaToggle from "../components/PersonaToggle";
 import ChatWindow from "../components/ChatWindow";
 import GlassCard from "../components/GlassCard";
 import Image from 'next/image';
-import logo from '../next/logo.png';
+
 
 export default function Home() {
   const [persona, setPersona] = useState("hitesh");
