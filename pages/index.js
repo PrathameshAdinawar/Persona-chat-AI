@@ -32,8 +32,8 @@ export default function Home() {
            <Image 
         src="/Logo/logo.png" 
         alt="Logo" 
-        width={40} 
-        height={40} 
+        width={70} 
+        height={70} 
         className="rounded-xl"
       />
             <h1 className="text-2xl font-extrabold bg-gradient-to-r from-gray-900 via-blue-800 to-purple-800 dark:from-white dark:via-blue-200 dark:to-purple-200 bg-clip-text text-transparent">
