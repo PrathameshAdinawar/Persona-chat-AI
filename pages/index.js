@@ -31,7 +31,7 @@ export default function Home() {
             {/* Logo with Next.js Image component */}
            <Image 
         src="/Logo/logo.png" 
-        alt="Persona Chat AI Logo" 
+        alt="Logo" 
         width={40} 
         height={40} 
         className="rounded-xl"
