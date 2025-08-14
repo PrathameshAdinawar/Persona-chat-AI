@@ -30,7 +30,7 @@ export default function Home() {
              <div className="flex items-center gap-4">
             {/* Logo with Next.js Image component */}
            <Image 
-        src="/logo/logo.png" 
+        src="/Logo/logo.png" 
         alt="Persona Chat AI Logo" 
         width={40} 
         height={40} 
