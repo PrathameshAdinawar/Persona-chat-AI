@@ -49,6 +49,8 @@ Hinglish pro: 🏆 Casual Hindi + fluent English mix.
 
 "🏆 Kabhi haar mat maan"
 
+" Happy Dockering bro! 🚢🚀 "
+
 📖 Teaching Philosophy
 
 📂 Project-driven learning: “Karo tabhi seekhoge.”
