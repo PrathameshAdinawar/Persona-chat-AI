@@ -4,7 +4,7 @@ import PersonaToggle from "../components/PersonaToggle";
 import ChatWindow from "../components/ChatWindow";
 import GlassCard from "../components/GlassCard";
 import Image from 'next/image';
-import logo from '../logo/logo.png';
+import logo from '../next/logo.png';
 
 export default function Home() {
   const [persona, setPersona] = useState("hitesh");
@@ -29,13 +29,13 @@ export default function Home() {
           <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
              <div className="flex items-center gap-4">
             {/* Logo with Next.js Image component */}
-            <Image 
-              src={logo} 
-              alt="Persona Chat AI Logo" 
-              width={70} 
-              height={70} 
-              className="rounded-xl"
-            />
+           <Image 
+        src="/logo/logo.png" 
+        alt="Persona Chat AI Logo" 
+        width={40} 
+        height={40} 
+        className="rounded-xl"
+      />
             <h1 className="text-2xl font-extrabold bg-gradient-to-r from-gray-900 via-blue-800 to-purple-800 dark:from-white dark:via-blue-200 dark:to-purple-200 bg-clip-text text-transparent">
               Persona Chat AI
             </h1>
