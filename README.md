@@ -89,7 +89,8 @@ Each persona is configurable:
 ```
 GOOGLE_API_KEY=your_gemini_api_key
 ```
-4) Place your logo at `public/logo/logo.png` and reference it with:
+4) Place your logo at `<Image src="/logo/logo.png" alt="Logo" width={40} height={40} />
+` and reference it with:
 ```
 
 ```
